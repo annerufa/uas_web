@@ -1,0 +1,41 @@
+
+
+
+section{
+    margin: 80px 50px ;
+    padding: 0 20px ;
+}
+
+/* bagian 1 */
+h1{
+    text-align: center; font-size: 55px;
+}
+
+h1 span {
+    color: #a51616;
+}
+
+img {
+    display: block;
+    margin: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* container parrt 2 */
+.container{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 50px;
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+    padding: 10px;
+}
+
+.items{
+    padding: 20px;
+}
+
+p{
+    text-align: justify;
+    padding-top: 10px;
+}
