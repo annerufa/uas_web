@@ -20,8 +20,9 @@
                 <li><a href="pakaian adat.html" class="button">Baju Adat</a></li>
                 <li><a href="rumahAdat.html" class="button">Rumah Tradisional</a></li>
                 <li><a href="tari-tradisional.html" class="button">Tari Tradisional</a></li>
-                <li><a href="profil.php" class="button">Profil</a></li>
-            </ul>
+                <li><a href="data-budaya.php" class="button">Data Budaya</a></li>
+                <li><a href="login.html" class="button">LOGIN</a></li>
+                <li><a href="subscribe.html" class="button">SUBSCRIBE</a></li>
             </ul>
         </nav>
     </header>
