@@ -1,0 +1,63 @@
+/* Reset CSS untuk menghapus margin dan padding default */
+body,
+h1,
+h2,
+p,
+ul,
+li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling dasar */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    line-height: 1.6;
+    color: #333;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+section {
+    padding: 2rem;
+}
+
+.button {
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.button:hover {
+    background-color: #555;
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+}
