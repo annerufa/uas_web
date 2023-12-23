@@ -14,7 +14,7 @@
             header('Location:data-budaya.php');
         }         
     }
-?>
+?> 
 
 <!DOCTYPE html>
 <html lang="en">
